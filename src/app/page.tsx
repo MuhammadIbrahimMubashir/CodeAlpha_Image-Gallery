@@ -123,6 +123,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen max-w-screen bg-gradient-to-br from-[#1f1f1f] via-[#2c3e50] to-[#2a2a2a] flex flex-col items-center px-4 py-6">
+      <title>Image Gallery</title>
       <div className="absolute min-w-fit h-72 bg-gradient-to-br from-[#434343] to-[#1f1f1f] opacity-60 rounded-full -top-20 -left-20 blur-3xl z-0" />
       <div className="absolute min-w-fit h-72 bg-gradient-to-br from-[#0f2027] to-[#203a43] opacity-60 rounded-full -bottom-20 -right-20 blur-3xl z-0" />
       <div className="relative z-10 w-full max-w-7xl bg-white/30 backdrop-blur-md rounded-3xl p-4 sm:p-6 md:p-10 shadow-2xl border border-white/50">
